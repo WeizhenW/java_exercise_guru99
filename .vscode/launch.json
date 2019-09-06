@@ -2,6 +2,12 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - HashmapExercise",
+            "request": "launch",
+            "mainClass": "HashmapExercise"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - StringExercise",
             "request": "launch",
             "mainClass": "StringExercise"
