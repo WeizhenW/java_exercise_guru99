@@ -2,6 +2,12 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - StringExercise",
+            "request": "launch",
+            "mainClass": "StringExercise"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - ArrayList",
             "request": "launch",
             "mainClass": "ArrayList"
